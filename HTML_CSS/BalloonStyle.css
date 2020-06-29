@@ -1,0 +1,243 @@
+a:link{
+	color: black;
+}
+a:hover{
+	color: #f88379;
+}
+body{
+	background-color:white;
+}
+figure
+{
+	display: block;
+	float: right;
+	margin: 0 0 0.5em 1em;
+	padding: 0;
+}
+h1{
+	font-family: "Century Gothic", CenturyGothic, sans-serif; 
+	font-size: 40px; 
+	font-weight: 400;
+	text-align: center;
+	background-color: white;
+	padding: .5em 0 .5em 0;
+	margin: 0;
+}
+html
+{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+hr.secondBreak{
+	margin:0;
+}
+input[type = text] textarea{
+	width: 100%;
+}
+input[type = submit]{
+	background-color:white;
+	color: #f88379;
+	font-family: "Century Gothic", CenturyGothic, sans-serif; 
+	font-size: 25px; 
+	font-weight:300;
+	margin-bottom: 1em;
+}
+input[type = button]{
+	background-color:white;
+	color: #f88379;
+	font-family: "Century Gothic", CenturyGothic, sans-serif; 
+	font-size: 20px; 
+	font-weight:300;
+	margin-bottom: 1em;
+}
+input[type = reset]{
+	background-color:white;
+	color: #f88379;
+	font-family: "Century Gothic", CenturyGothic, sans-serif; 
+	font-size: 20px; 
+	font-weight:300;
+	margin-bottom: 1em;
+}
+label{
+	color: white;
+	font-family: "Century Gothic", CenturyGothic, sans-serif; 
+	font-size: 25px; 
+	font-weight:300;
+	padding: 0;
+	margin: 0;
+}
+p.slogan{
+	font-family: "Century Gothic", CenturyGothic, sans-serif; 
+	font-size: 32px; 
+	font-weight: 400;
+	text-align:center;
+}
+span.pop{
+	font-weight:600;
+	font-size: 130%;
+}
+textarea{
+  width: 235px;
+  height: 100px;
+}
+.mainnav{
+	display:flex;
+	text-align:center;
+}
+.mainnav a{
+	padding: 0 3.15em;
+	font-family: "Century Gothic", CenturyGothic, sans-serif; 
+	font-size: 18px; 
+	font-weight:300;
+	text-align:center;
+}
+.test{
+	font-family: "Century Gothic", CenturyGothic, sans-serif; 
+	color: white;
+	font-size: 18px; 
+	font-weight:300;
+	text-align:center;
+}
+
+#bottomBox{
+   clear:both;
+   background-color:black;
+   border-bottom: 10px solid #f88379; 
+   padding:0;
+}
+#click{
+	font-family: "Century Gothic", CenturyGothic, sans-serif; 
+	color: white;
+	font-size: 18px; 
+	font-weight:300;
+}
+#contact{
+	background-color: #f88379;
+	float: left;
+	width: 25%;
+	margin-left: 1.5em;
+	border-left: 15px solid black;
+}
+#content{
+	background-color: #f88379;
+	width: 50%;
+	height: 75%;
+	padding: 0 0;
+	margin: 0;
+	border: 1.5px solid  #f88379;
+}
+#content p{
+	color: white;
+	font-family: "Century Gothic", CenturyGothic, sans-serif; 
+	font-size: 27px; 
+	font-weight:300;
+	text-align:center;
+}
+#footer{
+	display: flex;
+	width: 100%;
+	margin: .25em;
+	padding-left: 5em;
+	font-size: 20px;
+}
+#hear{
+	background-color:black;
+	width: 100%;
+	height: 10%;
+	color: white;
+	font-family: "Century Gothic", CenturyGothic, sans-serif; 
+	font-size: 30px; 
+	font-weight:300;
+	text-align:center;
+	border-top: 2px solid black;
+	border-bottom: 1px solid black;
+	
+}
+#headerBox{
+	border-top: 35px solid #f88379;
+	width: 100%;
+	position: sticky;
+    top: 0;
+	background-color:white;
+	border-bottom: 2px solid #f88379;
+	padding: .25em;
+}
+#map{
+	background-color: black;
+	color:#f88379;
+	font-family: "Century Gothic", CenturyGothic, sans-serif; 
+	font-size: 40px; 
+	font-weight:300;
+	float:right;
+	margin-right: 1.5em;
+}
+#picturebox{
+	border: 1px solid #f88379;
+	float: right;
+	height:75%;
+	width: 50%
+}
+#picturebox2{
+	border-right: 2px solid #f88379;
+	height:70%;
+	width: 15%;
+	float: left;
+	padding-left: 3.5em;
+	border-bottom: 6.25em black solid;
+}
+#people{
+	color: #f88379;
+	font-family: "Century Gothic", CenturyGothic, sans-serif; 
+	font-size: 40px; 
+	font-weight:300;
+	text-align:center;
+	background-color:black;
+	margin: .15em;
+}
+#orderForm{
+	background-color:#f88379;
+	width: 53%;
+	text-align:center;
+	font-family: "Century Gothic", CenturyGothic, sans-serif; 
+	color: white;
+	padding-top: 2em;
+	float: left;
+	height: 79%;
+}
+#receipt{
+	float: left;
+	width: 25.5%;
+	height: 75%;
+	text-align:left;
+	padding-top: 2em;
+}
+#recForm label{
+	color:black;
+	font-family: "Century Gothic", CenturyGothic, sans-serif; 
+	font-size: 20px;
+	padding-left: 1em;
+}
+.recHeader{
+	text-align:center;
+	color:black;
+	font-family: "Century Gothic", CenturyGothic, sans-serif; 
+	font-size: 30px;
+	padding: 0;
+}
+#us{
+	color: black;
+	font-family: "Century Gothic", CenturyGothic, sans-serif; 
+	font-size: 45px; 
+	font-size: 40px; 
+	font-weight:500;
+	text-align:center;
+	padding: 0;
+	margin: 0;
+	
+}
+
+
+
+
